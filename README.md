@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateusPimentell
+- 👋 Hi, I’m @MateusPimentel
 - 👀 I’m interested in ...learn python, java, javascript, html...
 - 🌱 I’m currently learning ...python.
 - 💞️ I’m looking to collaborate on ...projects
